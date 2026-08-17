@@ -165,6 +165,7 @@ Deny
 Priority:
 200
 ```
+<img width="1050" height="435" alt="02-nsg-app-deny-rule" src="https://github.com/user-attachments/assets/3dc41cdf-e48e-43a3-a84c-cc5b322dfb31" />
 
 Because priority `100` is evaluated before priority `200`, authorized Web-to-App traffic is permitted while other VNet traffic attempting to use TCP 8080 is blocked.
 
