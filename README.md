@@ -1,5 +1,4 @@
-<img width="1055" height="340" alt="01-vnet-subnets" src="https://github.com/user-attachments/assets/248b564c-daf1-4298-8144-5c9ea19f0301" />
-<img width="1055" height="340" alt="01-vnet-subnets" src="https://github.com/user-attachments/assets/96924733-80fe-432b-b92c-b92ec6401c1a" />
+
 # Azure Secure Three-Tier Network
 
 ## Project Overview
