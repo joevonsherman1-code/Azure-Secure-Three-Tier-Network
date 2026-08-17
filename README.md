@@ -220,6 +220,7 @@ Deny
 Priority:
 200
 ```
+<img width="1050" height="435" alt="03-nsg-data-deny-rule" src="https://github.com/user-attachments/assets/0126793c-efa0-4d09-ac2a-b551c4165ecb" />
 
 ---
 
@@ -294,6 +295,7 @@ The connection succeeded:
 Connected to 10.10.2.4 port 8080
 HTTP/1.0 200 OK
 ```
+<img width="805" height="475" alt="04-web-to-app-success" src="https://github.com/user-attachments/assets/718974a3-5fe0-4cf6-bbeb-7d049a32e9e7" />
 
 ### Result
 
@@ -320,6 +322,7 @@ The Data-tier test service successfully returned an HTTP response.
 The Application tier successfully communicated with the Data tier over the approved TCP 1433 path.
 
 ---
+<img width="805" height="475" alt="05-app-to-data-success" src="https://github.com/user-attachments/assets/45e2289b-bdf8-4009-bacd-cfada34e1dd6" />
 
 # Test 3 — Web to Data
 
@@ -343,6 +346,7 @@ Timeout was reached
 The Web tier cannot bypass the Application tier and communicate directly with the Data tier over TCP 1433.
 
 ---
+<img width="805" height="355" alt="06-web-to-data-blocked" src="https://github.com/user-attachments/assets/6b9e194e-e77e-4898-a5d1-3b3a888651c6" />
 
 # Test 4 — Data to Application
 
@@ -366,6 +370,7 @@ Timeout was reached
 The Data tier cannot initiate unauthorized TCP 8080 connections to the Application tier.
 
 ---
+<img width="805" height="355" alt="07-data-to-app-blocked" src="https://github.com/user-attachments/assets/df1cc3ce-ae90-4994-8629-4d52cb582fe9" />
 
 # Security Finding
 
