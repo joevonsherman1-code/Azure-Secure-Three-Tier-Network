@@ -1,3 +1,5 @@
+<img width="1055" height="340" alt="01-vnet-subnets" src="https://github.com/user-attachments/assets/248b564c-daf1-4298-8144-5c9ea19f0301" />
+<img width="1055" height="340" alt="01-vnet-subnets" src="https://github.com/user-attachments/assets/96924733-80fe-432b-b92c-b92ec6401c1a" />
 # Azure Secure Three-Tier Network
 
 ## Project Overview
@@ -59,8 +61,8 @@ The primary objective was to implement **least-privilege network communication**
 All three subnets exist inside the same Azure Virtual Network.
 
 Network Security Groups are used to control which tiers are allowed to communicate with each other.
+---<img width="1055" height="340" alt="01-vnet-subnets" src="https://github.com/user-attachments/assets/eb15cc55-2cb0-491b-b455-1492502d4f5c" />
 
----
 
 ## Technologies Used
 
